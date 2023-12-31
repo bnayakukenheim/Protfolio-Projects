@@ -2,11 +2,11 @@
 Mr. Fuzzy Factory analysis provided key metrics and insights to view and predict the growth and improvement of the company. 
 The Tableau dashboards attached, display some effective milestones that improved Mr. Fuzzy Factory performance over the years:
 
-**Over look on the company's revenue by product over the years since 2012, as a key metrics to monitor performance.**
+**Over look on the company's revenue by product over the years since 2012, a key metrics to monitor performance.**
 
 ![Products By Year Dashboard](https://github.com/SerachK/Protfolio-Projects/assets/154020723/263a1bb3-1239-47a9-a08e-8f8c191e643c)
 
-**The Tableau dashboard provides some insights on [each product's revenue :](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes)**
+**The Tableau dashboard provides some insights on [the product's revenue :](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes)**
 
 - The first product the company published is "Mr. Fuzzy". This product provided a stable revenue growth over the years.
 
