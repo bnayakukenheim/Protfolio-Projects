@@ -20,7 +20,7 @@ The Tableau dashboards attached, display some effective milestones that improved
 
 - Product 1 "Mr. Fuzzy" was often bought together with product 3 "Sugar Panda". Whereas Product 2 "Love Bear" & Product 4 "Mini Bear" were often bought together with Product 1 "Mr. Fuzzy".
 
-**The following Tableau dashboard showcase the [website traffic source and device type used ](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ChannelSourceandDeviceTypeDashboard/MarketingInvestmentInvestigationDashboard?publish=yes)used to find Mr. Fuzzy Factory website:**
+**The following Tableau dashboard showcase the [website traffic source and device type used ](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ChannelSourceandDeviceTypeDashboard/MarketingInvestmentInvestigationDashboard?publish=yes) to find Mr. Fuzzy Factory website:**
 
 ![Marketing Investment Investigation Dashboard](https://github.com/SerachK/Protfolio-Projects/assets/154020723/54f0526d-e6be-4845-be9f-46c16c4e04ae)
 
