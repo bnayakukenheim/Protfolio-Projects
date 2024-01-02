@@ -40,7 +40,7 @@ The top graph showcases the conversion rate of the website's traffic source by o
 
 -  The marketing source "bsearch" 'session to order' conversion rate decreased in 2014 as opposed to 2013. This data should be monitored to reconsider future investments.
 
-- The marketing source "organic search" 'session to order' conversion rate, has consistently increased since 2012. This means that “Mr. Fuzzy” brand became more popular, and clients are searching for the brand directly in the search engine. This phenomenon can assist the company to decrease marketing expenses in the future.
+- The marketing source "organic search" 'session to order' conversion rate, has consistently increased since 2012. This means that “Mr. Fuzzy” brand became popular, and more clients are searching for the brand directly in the search engine. This phenomenon can assist the company to decrease marketing expenses in the future.
 
 The bottom graph focuses on the device type used by sessions in the marketing source "gsearch":
 
