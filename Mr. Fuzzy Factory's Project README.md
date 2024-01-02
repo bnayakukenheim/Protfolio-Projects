@@ -47,7 +47,7 @@ The bottom graph focuses on the device type used by sessions in the marketing so
 - Both sections, "Sessions" and "Orders", showcase a consistent website's activity growth for desktop users vs mobile device since 2012. This finding affects future investment decisions; Either to focus on desktop users’ ads, or find a better source to increase mobile device users’ activity.
 
   
-The following [AB testing](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes) focuses on either the new "Lander-1” page attracts more sessions to click through to next page, as opposed to "Home" page.
+The following [AB testing](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes) focuses on whether the new "Lander-1” page attracts more sessions to click through to next page, as opposed to "Home" page.
 
 
 ![AB Testing Home Lander and Shipping Pages Dashboard](https://github.com/SerachK/Protfolio-Projects/assets/154020723/3584b5bf-5a39-430b-8930-dc3b94f61c3f)
